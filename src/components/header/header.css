@@ -109,6 +109,8 @@ header{
         display: none;
     }
     .me{
-        padding: 20px;
+        width: 18rem;
+        height: 27rem;
+        left: calc(50% - 9rem);
     }
 }
