@@ -12,22 +12,22 @@ const data = [
     id:1,
     image:Food,
     title:'Food Ordering App',
-    github:'https://github.com',
-    demo:'https://dribbble.com/Alien_pixels'
+    github:'https://github.com/Sudesh1502/Tomato',
+    demo:'https://food-service-tomato.netlify.app/'
   },
   {
     id: 2,
     image: Mytra,
     title: 'Myntra Clone',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/ecommerce_template_demo'
+    github: 'https://github.com/Sudesh1502/Myntra-Clone-ReactJs/tree/main/Mytra-clone',
+    demo: ''
   },
   {
     id: 3,
     image: Whether,
     title: 'Weather Forecast App UI',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/weather_forecast_app_demo'
+    demo: ''
   },
   {
     id: 4,
@@ -56,6 +56,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
+      
       <h5>My Recent Work</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio_container">

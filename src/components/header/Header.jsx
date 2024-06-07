@@ -6,6 +6,9 @@ import HeaderSocial from "./HeaderSocial";
 const Header = () => {
   return (
     <header>
+      {
+      alert("In Projects Section demo links of Myntra, social media application and Whether application are not working as they are not hosted yet, you can visit the repos of all projects using github link. Other all projects are hosted.")
+    }
       <div className="container header_container">
         <h5>Hello I	&apos; m</h5>
         <h1>Sudesh Mhamankar</h1>
