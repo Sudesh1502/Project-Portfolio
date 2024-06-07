@@ -115,3 +115,9 @@
         margin: 1.5rem 0;
     }
 }
+
+@media screen and (max-width: 370px){
+    #about{
+        margin-top: 30rem;
+    }
+}
